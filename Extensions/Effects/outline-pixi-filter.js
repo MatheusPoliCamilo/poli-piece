@@ -1,0 +1,2 @@
+var gdjs;(function(l){l.PixiFiltersTools.registerFilterCreator("Outline",new class extends l.PixiFiltersTools.PixiFilterCreator{makePIXIFilter(t,e){return new PIXI.filters.OutlineFilter}updatePreRender(t,e){}updateDoubleParameter(t,e,i){const r=t;e==="thickness"?r.thickness=i:e==="padding"&&(r.padding=i)}updateStringParameter(t,e,i){const r=t;e==="color"&&(r.color=l.PixiFiltersTools.rgbOrHexToHexNumber(i))}updateBooleanParameter(t,e,i){}})})(gdjs||(gdjs={}));
+//# sourceMappingURL=outline-pixi-filter.js.map
