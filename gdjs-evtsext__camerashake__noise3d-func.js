@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__CameraShake__Noise3d !== "undefined") {
 gdjs.evtsExt__CameraShake__Noise3d = {};
 
 
-gdjs.evtsExt__CameraShake__Noise3d.userFunc0xb235b8 = function(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__CameraShake__Noise3d.userFunc0xef62d0 = function(runtimeScene, eventsFunctionContext) {
 "use strict";
 const name = eventsFunctionContext.getArgument("Name");
 const x = eventsFunctionContext.getArgument("X");
@@ -22,7 +22,7 @@ gdjs.evtsExt__CameraShake__Noise3d.eventsList0 = function(runtimeScene, eventsFu
 {
 
 
-gdjs.evtsExt__CameraShake__Noise3d.userFunc0xb235b8(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__CameraShake__Noise3d.userFunc0xef62d0(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 

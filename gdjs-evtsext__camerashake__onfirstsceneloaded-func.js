@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__CameraShake__onFirstSceneLoaded !== "undefined") {
 gdjs.evtsExt__CameraShake__onFirstSceneLoaded = {};
 
 
-gdjs.evtsExt__CameraShake__onFirstSceneLoaded.userFunc0xb235b8 = function(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__CameraShake__onFirstSceneLoaded.userFunc0xef62d0 = function(runtimeScene, eventsFunctionContext) {
 "use strict";
 gdjs._cameraShakeExtension = gdjs._cameraShakeExtension || {};
 
@@ -648,7 +648,7 @@ gdjs.evtsExt__CameraShake__onFirstSceneLoaded.eventsList0 = function(runtimeScen
 {
 
 
-gdjs.evtsExt__CameraShake__onFirstSceneLoaded.userFunc0xb235b8(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__CameraShake__onFirstSceneLoaded.userFunc0xef62d0(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 

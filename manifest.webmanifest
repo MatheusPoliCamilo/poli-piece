@@ -1,8 +1,8 @@
 {
-  "name": "Wave Defense Example",
-  "short_name": "Wave Defense Example",
+  "name": "Poli Piece",
+  "short_name": "Poli Piece",
   "id": "com.example.wavedefenseexample",
-  "description": "Create a wave defense game without coding, using GDevelop. This beginner-friendly example covers player movement, firing a bullet, enemy logic, leveling up character stats, mobile controls, and spawning the enemies.",
+  "description": "",
   "orientation": "landscape",
   "start_url": "./index.html",
   "display": "standalone",
